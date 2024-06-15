@@ -1,0 +1,23 @@
+{
+	"history": "History",
+	"view": "View",
+	"views": "Views",
+	"clear": "Clear",
+	"modal": {
+		"header": "VIDEOCLUB RULES",
+		"btn": "I agree",
+		"content": "If you are tired to looking for a videos on youtube this site can help you find something new. Videos will show randomly, but you can increase or decrease the chances of showing for all users. Rules are below",
+		"rules": [
+			"The most important rule of our Videoclub. Tell everyone about the Videoclub!",
+			"To get the next video press one of the three buttons. You have to watch some part of the video to be able to change video.",
+			"Button \"plus\" - increase the probability of the video to be gotten for all users.",
+			"Button \"minus\" - decrease the probability of the video to be gotten for all users.",
+			"Button \"equality\" - skip video. The video can be skipped after watching at least 3 seconds."
+		],
+		"congrat": "Welcome to the club buddy!"
+	},
+	"categories": "Category",
+	"category": {
+		"0": "All"
+	}
+}
